@@ -1,0 +1,35 @@
+#container {
+    text-align: center;
+    margin: 100px 300px;
+    padding-bottom: 30px;
+    background-color: #e8ecef;
+    border: #433d3c solid 2px;
+}
+
+#random-anime > p {
+    font-size: 40px;
+    color: #d9333f;
+}
+
+#text {
+    font-size: 30px;
+    color: #302833;
+    font-weight: bold;
+}
+
+#random-btn {
+    display: inline-block;
+    border: #433d3c solid 2px;
+    border-radius: 10px 10px 10px 10px; /* 枠線を角丸に */
+    padding: 5px 20px;
+    background-color: aqua;
+}
+
+#random-btn a {
+    color: #302833;
+    font-weight: bold;
+}
+
+#stop-btn {
+    display: none;
+}
